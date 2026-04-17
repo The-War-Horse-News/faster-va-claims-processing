@@ -1,0 +1,5 @@
+# Data inputs
+data-raw/
+
+# R Environment Variables
+.Renviron
