@@ -26,6 +26,8 @@ safe_download <- function(x) {
 
   # Extract only the name of the file to download
   d <- str_c(dir_raw, str_extract(x, pattern = "(?<=\\d{4}/).*$"))
+  # Remove extra hash if it appears
+  d <- str_remove(d, "#")
 
   # Download file x if it is not already on disk
   if (!file.exists(d)) {

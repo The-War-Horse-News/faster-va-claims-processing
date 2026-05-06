@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code to re-create the [data visual](https://public.flourish.studio/story/3642401/) from The War Horse story, [“Hiring, Overtime, and AI: VA is Processing Veterans’ Disability Claims Faster Than Ever.”](https://thewarhorse.org/)
+This repository contains the code to re-create the [data visual](https://public.flourish.studio/story/3642401/) from The War Horse story, [“Hiring, Overtime, and AI: VA is Processing Veterans’ Disability Claims Faster Than Ever.”](https://thewarhorse.org/ai-veterans-affairs-disability-claims/)
 
 ## Data
 
@@ -20,4 +20,4 @@ More information about the weekly workload report is available [here](https://ww
 
 ## License
 
-This data is released under a [Creative Commons BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). You can  use it for noncommercial purposes if you attribute to The War Horse and link to [our reporting](https://thewarhorse.org/).
+This data is released under a [Creative Commons BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). You can  use it for noncommercial purposes if you attribute to The War Horse and link to [our reporting](https://thewarhorse.org/ai-veterans-affairs-disability-claims/).

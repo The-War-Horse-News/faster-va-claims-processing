@@ -123,6 +123,27 @@ january_2016 <-
 
 are_equal(january_2016, 78113)
 
+may_2018 <-
+  joined |> 
+  filter(date == mdy("05-14-2018")) |> 
+  pull(pending_more_than_125)
+
+are_equal(may_2018, 67027)
+
+september_2016 <-
+  joined |> 
+  filter(date == mdy("09-17-2016")) |> 
+  pull(pending_more_than_125)
+
+are_equal(september_2016, 72801)
+
+may_2026 <-
+  joined |> 
+  filter(date == mdy("05-02-2026")) |> 
+  pull(pending_more_than_125)
+
+are_equal(may_2026, 75828)
+
 ## CHECK DATA COMPLETENESS
 
 # Define start and end period for data
