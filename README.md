@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code to re-create the [data visual](https://public.flourish.studio/story/3642401/) from The War Horse story, [“Hiring, Overtime, and AI: VA is Processing Veterans’ Disability Claims Faster Than Ever.”](https://thewarhorse.org/ai-veterans-affairs-disability-claims/)
+This repository contains the code to re-create the [data visual](https://public.flourish.studio/story/3670546/) from The War Horse story, [“Hiring, Overtime, and AI: VA is Processing Veterans’ Disability Claims Faster Than Ever.”](https://thewarhorse.org/ai-veterans-affairs-disability-claims/)
 
 ## Data
 
